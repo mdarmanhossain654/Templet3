@@ -1,0 +1,279 @@
+*{margin:0; padding:0}
+
+.container{
+    width: 100%;
+    
+}
+.wrapper{
+    width: 1280px;
+    display: block;
+    margin: 0 auto;
+}
+.logo_menu{
+    
+    display: block;
+    
+    background: linear-gradient(#100C1A, #3A345F);
+    overflow: hidden;
+    width: 1080px;
+    margin: 0 auto;
+    
+    
+}
+.extra_color{
+    background: linear-gradient(#100C1A, #3A345F);
+    display: block;
+    overflow: hidden;
+}
+.logo{
+    float: left;
+    margin: 0 auto;
+    width: 540px;
+}
+.logo h1{
+    padding: 10px 0px;
+    font-weight: bold;
+    font-size: 30px;
+    color: aliceblue;
+    
+}
+.menu{
+    float: right;
+    margin: 0 auto;
+    width: 540px;
+   
+}
+.menu ul {
+    display: block;
+    float: right;
+}
+.menu ul li{
+    list-style-type: none;
+    float: left;
+    position: relative;
+    
+}
+.menu ul li a{
+    text-decoration: none;
+    color: aliceblue;
+    padding: 20px 10px;
+    display: block;
+}
+.menu ul li a:hover{
+    background: #caca1c;
+    color: #000;
+    font-weight: bold;
+    transition: 0.5s all ease;
+}
+
+
+
+section{
+  
+}
+.Middle {
+    width: 100%;
+    height: 580px;
+    background-image: url(img/pic1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+.all h1{
+    color: white;
+    text-align: center;
+    font-size: 70px;
+    overflow: hidden;
+    margin-top: 120px;
+    margin-bottom: 80px;
+}
+
+.Middle h3{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    display: block;
+    margin-bottom: 8px;
+}
+.all{
+    overflow: hidden;
+    display: block;
+    margin: auto;
+}
+.btn {
+    margin: 0 auto;
+    width: 477px;
+}
+input[type="text"] {
+    width: 363px;
+    min-height: 45px;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 6px;
+    outline: none;
+    border: none;
+}
+button {
+    width: 109px;
+    min-height: 45px;
+    border-radius: 8px;
+    background: #caca1c;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    outline: none;
+}
+
+
+
+.article{
+    height: 240px;
+    background: #caca1c;
+    overflow: hidden;
+    margin-top: 0px;
+}
+.article p{
+    text-align: center;
+    margin: 0 auto;
+    line-height: 1.6;
+    font-size: 22px;
+    color: aliceblue;
+    letter-spacing: 2px;
+    font-weight:bold;
+    font-size: 25px;
+    
+    
+}
+.paragraph{
+    margin-top: 55px;
+    padding: 15px;
+}
+
+
+.portpolio{
+    display: block;
+    padding-top: 60px;
+    overflow: hidden;
+    background:#F0F0F0;
+}
+
+. portpolio1 icon img{
+
+  }
+img {
+    margin: auto;
+    display: block;
+    width: 78px;
+    margin-bottom: 15px;
+}
+span {
+    text-align: center;
+    display: block;
+    font-size: 41px;
+    font-weight: bold;
+}
+.portpolio2 {
+    width: 1080px;
+    margin: auto;
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+   
+    
+}
+.box {
+    width: 340px;
+   margin-bottom: 30px;
+    float: left;
+    margin-right: 30px;
+    
+}
+.It_img {
+    margin-bottom: -17px;
+}
+.box h3 {
+    padding-bottom: 5px;
+}
+.box p {
+    padding-bottom: 10px;
+    text-align: justify;
+}
+.box a {
+    text-decoration: none;
+    color: firebrick;
+    font-weight: bold;
+}
+.box.box3 {
+    margin-right: 0px;
+}
+
+.services{
+    display: block;
+    padding-top: 60px;
+    overflow: hidden;
+    background:#F0F0F0;
+}
+img {
+    margin: auto;
+    display: block;
+    width: 78px;
+    margin-bottom: 15px;
+}
+span {
+    text-align: center;
+    display: block;
+    font-size: 41px;
+    font-weight: bold;
+}
+.services2 {
+    width: 1080px;
+    margin: auto;
+    display: block;
+    background: #F0F0F0;
+    overflow: hidden;
+    
+    
+}
+.part {
+    width: 230px;
+    background: #ddd;
+    margin-top: 15px;
+    padding: 5px 10px;
+    float: left;
+    margin-bottom: 100px;
+    margin-right: 26px;
+}
+ .part h4{
+    text-align: center;
+    margin-bottom: 8px;
+}
+.part p{
+    text-align: justify;
+    margin-bottom: 8px;
+}
+.part.Last_part{
+    margin-right: 0px;
+}
+.foot{
+    width: 100%;
+    height: 130px;
+    background: #caca1c;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
